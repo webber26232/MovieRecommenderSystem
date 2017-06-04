@@ -1,3 +1,7 @@
+The movie recommender system is developed by Java based on the MovieLens 100k data set.
+The whole system contains a front-end user interface and back-end recommend models.
+3 recommendation algorithms are used: popularity based recommendation, item based recommendation and user-based recommendation.
+
 The source code is included in the jar file
 
 
